@@ -1,0 +1,16 @@
+/* components/needs-fanghufu/fanghufu.wxss */
+.need{
+  width:150px;
+  height:230px;
+  background-color:orange;
+  border-radius:10px;
+}
+.need image{
+  width:150px;
+  height:100px;
+}
+.need text{
+  width:100%;
+  display:block;
+  text-align:center;
+}

@@ -1,0 +1,8 @@
+<!--components/needs-kouzhao/kouzhao.wxml-->
+<view class="need">
+  <image src="/assets/images/kouzhao.jpg"/>
+  <text>口罩名称：XXX\n</text>
+  <text>口罩规格：XXX\n</text>
+  <text>需求量：mm个\n</text>
+    <text>联系方式：133333333\n“xx医院”</text>
+</view>
